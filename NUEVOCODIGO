@@ -3,7 +3,7 @@ int main(){
 printf(“Este es mi segundo codigo”);
 printf(“Programar es facil”);
 printf(“Voy a compartir con mi compañero el codigo”);
-
+printf ("Ruiz Lopez Giselle);
 printf(“MI NOMBRE ES DIEGO ISSAC SANCHEZ CATEDRA”);
 return 0;
 }
