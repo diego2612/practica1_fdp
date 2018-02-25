@@ -2,7 +2,8 @@
 
 int main(){
   printf("\nHola Mundo");
-  printf("\nFernada Fragoso\n");
+  printf("\nFernada Fragoso\n")
+  printf ("\ Hola")
   printf ("\ nGiselle Ruiz Lopeez \ n");
   printf ("  \ ndiego\ n")
   printf (" \ fundamentos de programacio\n");
